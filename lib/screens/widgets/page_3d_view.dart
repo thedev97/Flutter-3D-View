@@ -10,5 +10,4 @@ class Page3DView extends ChangeNotifier{
     value = newValue;
     notifyListeners();
   }
-
 }
