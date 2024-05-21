@@ -58,6 +58,7 @@ class HomeState extends State<Home> {
               padding: const EdgeInsets.all(20),
               child: Text(
                 "Eternal rhythms, timeless beauty\nNature forever.",
+                maxLines: 3,
                 style: GoogleFonts.manrope(
                   color: Colors.white,
                   fontSize: 18.0,
@@ -70,7 +71,6 @@ class HomeState extends State<Home> {
                     ),
                   ],
                 ),
-                maxLines: 3,
               ),
             ),
             Expanded(
