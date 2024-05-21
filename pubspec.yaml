@@ -1,6 +1,6 @@
 name: flutter_3d_viewer
 description: "This is a project for Flutter 3D View"
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: 'none'
 version: 1.0.0+1
 
 environment:
