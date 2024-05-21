@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_3d_viewer/screens/page_3d.dart';
 import 'package:flutter_3d_viewer/screens/widgets/page_3d_view.dart';
